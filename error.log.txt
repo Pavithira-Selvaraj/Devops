@@ -1,0 +1,3 @@
+Error 1:Being idle for long time
+Error 2:Working on a update
+Error 3:Then being in the website without loading it for sometime. 
